@@ -1,3 +1,5 @@
+#Faster than 95% on leetcode, beating 50% on memory. Utilizes two pointers to get O(n) time complexity.
+
 class Solution(object):
     def maxArea(self, height):
         """
